@@ -1,0 +1,482 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="50fb00f5-77ee-4836-947c-8be7594854ea" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/testService/package-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/testService/TestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/testService/TestController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/testService/TestServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/testService/TestServiceApplication.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/testService/TestController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#320#321#0" expanded="true" />
+                <element signature="e#348#349#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/testService/package-info.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="15" selection-end-column="3" />
+              <folding>
+                <element signature="e#0#803#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/testService/TestServiceApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="23" selection-start-line="23" selection-end-line="23" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1143" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.circleci/config.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="472">
+              <caret line="49" column="18" lean-forward="true" selection-start-line="49" selection-start-column="18" selection-end-line="49" selection-end-column="18" />
+              <folding>
+                <element signature="e#30#75#0" />
+                <element signature="e#53#75#0" />
+                <element signature="e#112#152#0" />
+                <element signature="e#143#152#0" />
+                <element signature="e#158#433#0" />
+                <element signature="e#426#433#0" />
+                <element signature="e#580#589#0" />
+                <element signature="e#1095#1103#0" />
+                <element signature="e#1110#1197#0" />
+                <element signature="e#1112#1197#1" />
+                <element signature="e#1137#1197#1" />
+                <element signature="e#1157#1197#0" />
+                <element signature="e#1204#1224#0" />
+                <element signature="e#1211#1224#0" />
+                <element signature="e#1231#1327#0" />
+                <element signature="e#1233#1327#1" />
+                <element signature="e#1266#1287#0" />
+                <element signature="e#1311#1327#0" />
+                <element signature="e#1334#1384#0" />
+                <element signature="e#1336#1384#1" />
+                <element signature="e#1372#1384#0" />
+                <element signature="e#1388#1864#0" />
+                <element signature="e#1402#1455#0" />
+                <element signature="e#1416#1455#1" />
+                <element signature="e#1425#1455#0" />
+                <element signature="e#1484#1490#0" />
+                <element signature="e#1496#1536#0" />
+                <element signature="e#1527#1536#0" />
+                <element signature="e#1557#1565#0" />
+                <element signature="e#1599#1659#1" />
+                <element signature="e#1619#1659#0" />
+                <element signature="e#1666#1691#0" />
+                <element signature="e#1673#1691#0" />
+                <element signature="e#1698#1807#0" />
+                <element signature="e#1700#1807#1" />
+                <element signature="e#1733#1762#0" />
+                <element signature="e#1786#1807#0" />
+                <element signature="e#1814#1864#0" />
+                <element signature="e#1816#1864#1" />
+                <element signature="e#1852#1864#0" />
+                <element signature="e#1907#1937#0" />
+                <element signature="e#2009#2018#0" />
+                <element signature="e#2081#2141#1" />
+                <element signature="e#2101#2141#0" />
+                <element signature="e#2155#2172#0" />
+                <element signature="e#2181#2284#1" />
+                <element signature="e#2214#2239#0" />
+                <element signature="e#2263#2284#0" />
+                <element signature="e#2293#2341#1" />
+                <element signature="e#2329#2341#0" />
+                <element signature="e#2369#2400#1" />
+                <element signature="e#2378#2400#0" />
+                <element signature="e#2468#2477#0" />
+                <element signature="e#2515#2600#1" />
+                <element signature="e#2540#2600#1" />
+                <element signature="e#2560#2600#0" />
+                <element signature="e#2614#2639#0" />
+                <element signature="e#2703#2739#0" />
+                <element signature="e#2793#2841#1" />
+                <element signature="e#2829#2841#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-364" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/local.properties">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/src/main/java/com/testService</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/testService/package-info.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/testService/TestServiceApplication.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/testService/TestController.java" />
+        <option value="$PROJECT_DIR$/.circleci/config.yml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__accessors_smart_1_2.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__activemq_broker_5_15_9.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__activemq_client_5_15_9.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__activemq_openwire_legacy_5_15_9.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__android_json_0_0_20131108_vaadin1.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__asm_5_0_4.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__assertj_core_3_11_1.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__byte_buddy_1_9_3.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__byte_buddy_agent_1_9_3.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__classmate_1_3_4.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__geronimo_j2ee_management_1_1_spec_1_0_1.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__guava_18_0.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__hamcrest_core_1_3.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__hamcrest_library_1_3.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__hawtbuf_1_11.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__hibernate_validator_6_0_16_Final.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__jackson_annotations_2_9_0.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__jackson_core_2_9_8.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__jackson_databind_2_9_8.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__jackson_datatype_jdk8_2_9_8.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__jackson_datatype_jsr310_2_9_8.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__jackson_module_parameter_names_2_9_8.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__javax_annotation_api_1_3_2.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__javax_jms_api_2_0_1.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__jboss_logging_3_3_2_Final.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__json_path_2_4_0.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__json_smart_2_3.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__jsonassert_1_5_0.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__jul_to_slf4j_1_7_26.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__junit_4_12.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__log4j_api_2_11_2.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__log4j_to_slf4j_2_11_2.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__logback_classic_1_2_3.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__logback_core_1_2_3.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__mockito_core_2_23_4.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__objenesis_2_6.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__slf4j_api_1_7_26.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__snakeyaml_1_23.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__spring_aop_5_1_7_RELEASE.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__spring_beans_5_1_7_RELEASE.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__spring_boot_2_1_5_RELEASE.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__spring_boot_autoconfigure_2_1_5_RELEASE.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__spring_boot_starter_2_1_5_RELEASE.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__spring_boot_starter_activemq_2_1_5_RELEASE.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__spring_boot_starter_json_2_1_5_RELEASE.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__spring_boot_starter_logging_2_1_5_RELEASE.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__spring_boot_starter_test_2_1_5_RELEASE.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__spring_boot_starter_tomcat_2_1_5_RELEASE.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__spring_boot_starter_web_2_1_5_RELEASE.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__spring_boot_test_2_1_5_RELEASE.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__spring_boot_test_autoconfigure_2_1_5_RELEASE.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__spring_context_5_1_7_RELEASE.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__spring_core_5_1_7_RELEASE.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__spring_expression_5_1_7_RELEASE.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__spring_jcl_5_1_7_RELEASE.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__spring_jms_5_1_7_RELEASE.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__spring_messaging_5_1_7_RELEASE.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__spring_test_5_1_7_RELEASE.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__spring_tx_5_1_7_RELEASE.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__spring_web_5_1_7_RELEASE.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__spring_webmvc_5_1_7_RELEASE.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__tomcat_annotations_api_9_0_19.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__tomcat_embed_core_9_0_19.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__tomcat_embed_el_9_0_19.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__tomcat_embed_websocket_9_0_19.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__validation_api_2_0_1_Final.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__xmlunit_core_2_6_2.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="829" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ci-cd-java-workshop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ci-cd-java-workshop" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="ci-cd-java-workshop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ci-cd-java-workshop" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name=".circleci" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ci-cd-java-workshop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ci-cd-java-workshop" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="not.eligible.for.single.variant.sync" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="50fb00f5-77ee-4836-947c-8be7594854ea" name="Default Changelist" comment="" />
+      <created>1564844398042</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1564844398042</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="829" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" visible="true" weight="0.24964234" />
+      <window_info id="Structure" side_tool="true" />
+      <window_info id="Build Variants" side_tool="true" />
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="Resources Explorer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Captures" order="0" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="TODO" />
+      <window_info anchor="bottom" id="Find" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Build" weight="0.32971507" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Gradle" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Palette&#9;" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/testService/info.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/testService/package-info.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="15" selection-end-column="3" />
+          <folding>
+            <element signature="e#0#803#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/testService/TestServiceApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/testService/TestController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#320#321#0" expanded="true" />
+            <element signature="e#348#349#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gradlew">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-364" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1143" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.circleci/config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="472">
+          <caret line="49" column="18" lean-forward="true" selection-start-line="49" selection-start-column="18" selection-end-line="49" selection-end-column="18" />
+          <folding>
+            <element signature="e#30#75#0" />
+            <element signature="e#53#75#0" />
+            <element signature="e#112#152#0" />
+            <element signature="e#143#152#0" />
+            <element signature="e#158#433#0" />
+            <element signature="e#426#433#0" />
+            <element signature="e#580#589#0" />
+            <element signature="e#1095#1103#0" />
+            <element signature="e#1110#1197#0" />
+            <element signature="e#1112#1197#1" />
+            <element signature="e#1137#1197#1" />
+            <element signature="e#1157#1197#0" />
+            <element signature="e#1204#1224#0" />
+            <element signature="e#1211#1224#0" />
+            <element signature="e#1231#1327#0" />
+            <element signature="e#1233#1327#1" />
+            <element signature="e#1266#1287#0" />
+            <element signature="e#1311#1327#0" />
+            <element signature="e#1334#1384#0" />
+            <element signature="e#1336#1384#1" />
+            <element signature="e#1372#1384#0" />
+            <element signature="e#1388#1864#0" />
+            <element signature="e#1402#1455#0" />
+            <element signature="e#1416#1455#1" />
+            <element signature="e#1425#1455#0" />
+            <element signature="e#1484#1490#0" />
+            <element signature="e#1496#1536#0" />
+            <element signature="e#1527#1536#0" />
+            <element signature="e#1557#1565#0" />
+            <element signature="e#1599#1659#1" />
+            <element signature="e#1619#1659#0" />
+            <element signature="e#1666#1691#0" />
+            <element signature="e#1673#1691#0" />
+            <element signature="e#1698#1807#0" />
+            <element signature="e#1700#1807#1" />
+            <element signature="e#1733#1762#0" />
+            <element signature="e#1786#1807#0" />
+            <element signature="e#1814#1864#0" />
+            <element signature="e#1816#1864#1" />
+            <element signature="e#1852#1864#0" />
+            <element signature="e#1907#1937#0" />
+            <element signature="e#2009#2018#0" />
+            <element signature="e#2081#2141#1" />
+            <element signature="e#2101#2141#0" />
+            <element signature="e#2155#2172#0" />
+            <element signature="e#2181#2284#1" />
+            <element signature="e#2214#2239#0" />
+            <element signature="e#2263#2284#0" />
+            <element signature="e#2293#2341#1" />
+            <element signature="e#2329#2341#0" />
+            <element signature="e#2369#2400#1" />
+            <element signature="e#2378#2400#0" />
+            <element signature="e#2468#2477#0" />
+            <element signature="e#2515#2600#1" />
+            <element signature="e#2540#2600#1" />
+            <element signature="e#2560#2600#0" />
+            <element signature="e#2614#2639#0" />
+            <element signature="e#2703#2739#0" />
+            <element signature="e#2793#2841#1" />
+            <element signature="e#2829#2841#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
